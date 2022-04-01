@@ -21,3 +21,4 @@ metadata:
   name: me
 spec:
   memberOf: [team-b]
+---
